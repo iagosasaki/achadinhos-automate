@@ -1,0 +1,17 @@
+# Chaves e senhas (nunca subir)
+.env
+
+# Imagens geradas pelo programa
+saida/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor e sistema
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
